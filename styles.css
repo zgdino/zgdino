@@ -365,13 +365,15 @@ footer{
     }
 
     .menu-item-desc p{
-        display: none;
+        display: ;
     }
 
     .menu-item-desc .btn{
+        display: none;
         color: #fff !important;
         background-color: #c69963;
-    }
+        
+
   }
 
   .img-black{
